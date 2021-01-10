@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML>
+<HEAD>
+<META name="GENERATOR" content="IBM HomePage Builder 2001 V5.0.3 for Windows">
+<TITLE>メニュー</TITLE>
+</HEAD>
+<BODY bgcolor="#71D74F" background="frm04_bg2.gif" text="#006600" link="#FFFFFF" vlink="#CCCCCC" alink="#FF9999">
+<TABLE width="732" border="0" cellspacing="0" cellpadding="0" height="68">
+  <TBODY>
+    <TR>
+      <TD valign="bottom" align="right" height="43" width="346">　</TD>
+      <TD align="center" valign="bottom" height="43" width="86"><A href="sub1.htm" target="contents"><IMG src="frm04_i2.gif" width="38" height="38" alt="アイコン" border="0"></A></TD>
+      <TD align="center" valign="bottom" height="43" width="70"><A href="sub2.htm" target="contents"><IMG src="frm04_i3.gif" width="38" height="38" alt="アイコン" border="0"></A></TD>
+      <TD align="center" valign="bottom" height="43" width="74"><A href="sub3.htm" target="contents"><IMG src="frm04_i4.gif" width="38" height="38" alt="アイコン" border="0"></A></TD>
+<TD align="center" valign="bottom" height="43" width="78"><A href="sub4.htm" target="contents"><IMG src="frm04_i4.gif" width="38" height="38" alt="アイコン" border="0"></A></TD>
+<TD align="center" valign="bottom" height="43" width="78"><A href="sub5.htm"target="contents"><IMG src="beau_m3.gif" width="32" height="32" alt="アイコン" border="0"></A></TD> 
+    </TR>
+    <TR>
+      <TD valign="bottom" align="right" height="34" width="346">　</TD>
+      <TD align="center" height="34" width="86"><B><FONT size="2"><A href="sub1.htm" target="contents">ギャラリー</A></FONT></B></TD>
+      <TD align="center" height="34" width="70"><FONT size="2"><B><A href="sub2.htm" target="contents">活動報告<BR>
+      </A></B></FONT></TD>
+     <TD align="center" height="34" width="74"><FONT size="2"><B><A href="sub3.htm" target="contents">時の鐘</A></B></FONT></TD>
+  <TD align="center" height="34" width="78"><FONT size="2"><B><A href="sub4.htm" target="contents">ふるさと</A></B></FONT></TD>
+<TD align="center" height="34" width="78"><FONT size="2"><B><A href="sub5.htm" target="contents">リンク集</A></B></FONT></TD>
+          </TR>
+  </TBODY>
+</TABLE>
+</BODY>
+</HTML>
